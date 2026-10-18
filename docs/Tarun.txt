@@ -1,0 +1,72 @@
+TARUN — PROFILE AND DETAILS
+Prepared: 18 October 2026
+
+ABOUT ME
+- Preferred name: Tarun
+- Role: Student
+- Country/context: India (this may be approximate based on session context)
+- Time zone used in this session: Asia/Kolkata (UTC+05:30)
+- Communication preference: concise, information-dense explanations with a technical, postgraduate/M.Tech-student style. I prefer getting more useful information in fewer words.
+
+TECHNICAL ENVIRONMENT MENTIONED
+- Laptop: Lenovo LOQ. The exact model number and complete hardware specifications have not been established in the available conversation context.
+- Operating system/environment: Windows, including PowerShell and Windows Terminal.
+- A Python virtual environment was used in a folder named C:\Practice; the prompt showed a Windows user directory under C:\Users\tarun.
+- Browser/session context: Chrome on a Windows desktop (may change over time).
+- Questions have included checking laptop GPU TGP, laptop display repair/replacement and warranty costs, and reducing spelling/typing distractions while coding.
+
+MAIN INTERESTS AND PROJECT GOALS
+
+1. Building an operating system
+- Interested in developing and publicly releasing an operating system.
+- Wants a project name with a simple, meaningful definition and a name that is not already used by another OS project.
+- Interested in open-source licensing, especially the MIT License.
+- Asked about the Linux kernel, GNU GPL version 2 obligations, and whether MIT-licensed components or operating systems can be used and released publicly.
+- Wants to understand the practical licensing requirements before publishing a project.
+
+2. AI, language models, and fine-tuning
+- Interested in small language models, especially around 1.5 billion parameters and other compact models that can run on the available laptop.
+- Wants to understand what model sizes can run smoothly, with some lag, or with poor overall performance.
+- Has asked about fine-tuning rather than training a model from scratch.
+- Wants to release fine-tuned model weights for public download and understand licensing requirements.
+- Prefers permissively licensed models and wants to minimize legal/licensing complications.
+- Has discussed Qwen 2.5, DeepSeek R1, embedding models, and converting text into professional-looking text without watermarks.
+
+3. Programming and developer tools
+- Learning/practising programming, including C and Python.
+- Asked how to include two files in a C program using one line.
+- Worked with Python virtual environments and PowerShell activation.
+- Installed or explored packages including LangChain, langchain-community, langchain-text-splitters, langchain-openai, langchain-chroma, and python-dotenv.
+- Interested in virtual machines and has asked about setting up VirtualBox.
+- Has asked for explanations of programming errors and ways to reduce distracting spelling/typo indicators while coding.
+
+4. Laptop and Windows troubleshooting
+- Uses or has discussed a Lenovo LOQ laptop.
+- Asked about laptop GPU Total Graphics Power (TGP).
+- Asked about display failure, screen guards, warranty coverage, and exact Lenovo replacement/repair cost estimates.
+- Asked how to uninstall Microsoft Edge, including using its setup executable and PowerShell command-line switches.
+- Wants practical Windows Terminal/PowerShell instructions.
+
+5. Phones, messaging, and useful apps
+- Asked how to assess whether someone has blocked them on WhatsApp and requested alternative methods/resources.
+- Asked how to move or change the phone receiving two-step-verification prompts when using two phones.
+- Looked for Google Play apps that provide rewards for walking/steps.
+- Looked for an app that calls the user and gives a reminder when the call is answered.
+
+6. UI and image design
+- Requested an iOS-style welcome screen image.
+- Requested a green background, changing “Hello” to “welcome,” removing bottom text and an information icon, changing the aspect ratio to 16:9, and slightly reducing the text size.
+
+PREFERENCES OBSERVED IN TECHNICAL QUESTIONS
+- Values open-source availability and clear licensing terms.
+- Prefers specific, practical instructions over vague guidance.
+- Often wants concrete compatibility details and exact prices where they can be verified.
+- Wants to understand whether a tool or model will work well on the laptop before committing to it.
+- Is interested in publishing projects for public use, including downloadable AI model weights and an operating system.
+
+DETAILS NOT ESTABLISHED IN THE AVAILABLE CONTEXT
+- Full legal name, age/date of birth, address, phone number, email address, educational institution, degree program, and exact laptop model/specifications have not been provided here.
+- This document summarizes information available from the profile and conversation context; it is not a complete record of every detail that may exist elsewhere in an account.
+
+PRIVACY NOTE
+- Review this document before sharing it publicly. Remove any technical paths or other details you do not want to disclose.

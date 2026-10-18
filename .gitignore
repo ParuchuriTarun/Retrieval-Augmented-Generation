@@ -1,0 +1,23 @@
+# Environments
+.env
+.env.*
+!.env.example
+venv/
+.venv/
+env/
+
+# Vector Store / Local Databases
+db/
+*.sqlite3
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
